@@ -1,0 +1,64 @@
+
+---Downloaded files---
+The import files for: CargoPress Import were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://www.khangminhlogistics.vn
+Data file = /home/cuuho/khangminhlogistics.vn/wp-content/uploads/2020/03/demo-content-import-file_2020-03-30__03-52-14.xml
+Widget file = /home/cuuho/khangminhlogistics.vn/wp-content/uploads/2020/03/demo-widgets-import-file_2020-03-30__03-52-14.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Our Services : 
+
+Thanh điều hướng - No Title - Imported
+
+Blog Sidebar : 
+
+Tìm kiếm - No Title - Widget already exists
+Bài viết mới - RECENT POSTS - Imported
+Mây Thẻ - TAG CLOUD - Imported
+Chuyên mục - CATEGORIES - Imported
+
+Regular Page Sidebar : 
+
+Thanh điều hướng - No Title - Imported
+
+Shop Sidebar : 
+
+Giỏ hàng - CART - Imported
+Các danh mục sản phẩm - PRODUCT CATEGORIES - Imported
+Sản phẩm - PRODUCTS - Imported
+
+Header : 
+
+ProteusThemes: Icon Box - Call Us Anytime - Imported
+ProteusThemes: Icon Box - Opening Time - Imported
+ProteusThemes: Icon Box - Email Us - Imported
+Văn bản - No Title - Imported
+
+Navigation : 
+
+ProteusThemes: Social Icons - No Title - Imported
+
+Footer : 
+
+Visual Editor - No Title - Imported
+Thanh điều hướng - NAVIGATION - Imported
+Thanh điều hướng - OUR SERVICES - Imported
+Visual Editor - BUY NOW - Imported
+
+
+
+---pt-ocdi/after_import---
+After import setup ended!
